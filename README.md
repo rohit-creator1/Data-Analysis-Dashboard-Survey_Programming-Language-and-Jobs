@@ -4,6 +4,10 @@ In this project, I have analyzed a survey dataset of data professionals and crea
 ### Technologies Used
 - Power BI Desktop
 
+### Raw data used
+
+### Dashboard Interaction
+
 ### Steps
 1. Import the data into Power BI Desktop.
 2. Clean and transform the data in Power Query.
