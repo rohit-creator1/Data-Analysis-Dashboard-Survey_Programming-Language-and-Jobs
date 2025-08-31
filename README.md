@@ -8,6 +8,7 @@ In this project, I have analyzed a survey dataset of data professionals and crea
 https://github.com/rohit-creator1/Data-Analysis-Dashboard-Survey_Programming-Language-and-Jobs/blob/main/Raw%20Data_Survey%20of%20programing%20languages%20and%20jobs.xlsx
 
 ### Dashboard Interaction
+https://github.com/rohit-creator1/Data-Analysis-Dashboard-Survey_Programming-Language-and-Jobs/blob/main/Dashboard%20Image.png
 
 ### Steps
 1. Import the data into Power BI Desktop.
